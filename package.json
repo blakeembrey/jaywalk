@@ -41,7 +41,7 @@
     "istanbul": "^0.4.3",
     "tap-spec": "^4.1.1",
     "tslint": "^3.10.2",
-    "tslint-config-standard": "^1.2.2",
+    "tslint-config-standard": "^2.0.0",
     "typescript": "^2.0.6",
     "typings": "^2.0.0"
   },
