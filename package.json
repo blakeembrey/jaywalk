@@ -64,6 +64,6 @@
   },
   "dependencies": {
     "arrify": "^1.0.1",
-    "jsonld": "^0.4.11"
+    "jsonld": "^0.5.17"
   }
 }
